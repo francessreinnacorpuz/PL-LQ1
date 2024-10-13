@@ -1,0 +1,33 @@
+# CORPUZ FRANCESS REINNA L QUIZ 1
+GroupMember1 = "CORPUZ FRANCESS REINNA"
+GroupMember2 = "MACAYAN MICHAEL JOHN"
+GroupMember3 = "MENOR PATRICK IVAN"
+
+# Age in whole number
+Age1 = "20"
+Age2 = "20"
+Age3 = "20"
+
+# Weekly allowance in decimal form
+Allowance1 = "2000.00"
+Allowance2 = "1000.00"
+Allowance3 = "500.00"
+
+# TeamName
+TeamName = "JESTER"
+
+# Print all results of information
+print ("TeamName:" + TeamName)
+print ("Member1:" + GroupMember1 + ", her age is " + Age1 + ", allowance per week is" + Allowance1)
+print ("Member2:" + GroupMember2 + ", his age is " + Age2 + ", allowance per week is" + Allowance2)
+print ("Member3:" + GroupMember3 + ", his age is " + Age3 + ", allowance per week is" + Allowance3)
+
+# Length of our names
+Member1NameLength = (len(GroupMember1))
+Member2NameLength = (len(GroupMember2))
+Member3NameLength = (len(GroupMember3))
+print (Member1NameLength)
+print (Member2NameLength)
+print (Member3NameLength)
+
+# PEFORM RESULT
