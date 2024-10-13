@@ -1,0 +1,30 @@
+# CORPUZ FRANCESS REINNA L QUIZ 1
+GroupMember1 = "CORPUZ FRANCESS REINNA"
+GroupMember2 = "MACAYAN MICHAEL JOHN"
+GroupMember3 = "MENOR PATRICK IVAN"
+
+# Age in whole number
+Age1 = "20"
+Age2 = "20"
+Age3 = "20"
+
+# Weekly allowance in decimal form
+Allowance1 = "2000.00"
+Allowance2 = "1000.00"
+Allowance3 = "500.00"
+
+# TeamName
+TeamName = "JESTER"
+
+# Length of our names
+Member1NameLength = (len(GroupMember1))
+Member2NameLength = (len(GroupMember2))
+Member3NameLength = (len(GroupMember3))
+
+# The total of age and allowance
+Member1 = Age1 + Allowance1
+Member2 = Age2 + Allowance2
+Member3 = Age3 + Allowance3
+
+print ("Total of Age1 and Allowance1" + total)
+
